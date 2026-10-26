@@ -1,0 +1,1 @@
+# Smart SolarGuard Backend Package
